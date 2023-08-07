@@ -10,7 +10,7 @@ sites:
   - name: Prod-portal-Karma
     url: https://karmahealthcare.in/karma-app/Management/Login.html
   - name: Staging-API-Karma
-    url: https://staging.api.karmaprimaryhealthcare.in/api/auth/password_login
+    url: https://staging.api.karmaprimaryhealthcare.in
   - name: Prod-API-Karma
     url: https://api.karmaprimaryhealthcare.in/api/auth/password_login
 
