@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
     "status": "down",
-    "uptime": "67.12%",
-    "uptimeDay": "62.76%",
-    "uptimeWeek": "67.12%",
-    "uptimeMonth": "67.12%",
-    "uptimeYear": "67.12%",
-    "time": 811,
-    "timeDay": 922,
-    "timeWeek": 811,
-    "timeMonth": 811,
-    "timeYear": 811,
+    "uptime": "74.07%",
+    "uptimeDay": "63.80%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "74.07%",
+    "uptimeYear": "74.07%",
+    "time": 783,
+    "timeDay": 812,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2023-08-08": 153,
+      "2023-08-08": 143,
       "2023-08-07": 383
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/testing/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "dev-portal-karma",
-    "status": "up",
-    "uptime": "67.85%",
-    "uptimeDay": "63.58%",
-    "uptimeWeek": "67.85%",
-    "uptimeMonth": "67.85%",
-    "uptimeYear": "67.85%",
+    "status": "down",
+    "uptime": "74.12%",
+    "uptimeDay": "63.83%",
+    "uptimeWeek": "74.12%",
+    "uptimeMonth": "74.12%",
+    "uptimeYear": "74.12%",
     "time": 273,
     "timeDay": 298,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-08-08": 142,
+      "2023-08-08": 143,
       "2023-08-07": 383
     }
   },
@@ -46,12 +46,12 @@
     "url": "https://karmahealthcare.in/karma-app/Management/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/karmahealthcare.in.ico",
     "slug": "prod-portal-karma",
-    "status": "up",
-    "uptime": "66.64%",
-    "uptimeDay": "62.22%",
-    "uptimeWeek": "66.64%",
-    "uptimeMonth": "66.64%",
-    "uptimeYear": "66.64%",
+    "status": "down",
+    "uptime": "73.18%",
+    "uptimeDay": "62.47%",
+    "uptimeWeek": "73.18%",
+    "uptimeMonth": "73.18%",
+    "uptimeYear": "73.18%",
     "time": 818,
     "timeDay": 814,
     "timeWeek": 818,
@@ -79,7 +79,7 @@
     "timeMonth": 735,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-08-08": 664,
+      "2023-08-08": 1062,
       "2023-08-07": 967
     }
   },
@@ -100,7 +100,7 @@
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-08-08": 664,
+      "2023-08-08": 1062,
       "2023-08-07": 967
     }
   }
