@@ -13,6 +13,10 @@ sites:
     url: https://staging.api.karmaprimaryhealthcare.in
   - name: Prod-API-Karma
     url: https://api.karmaprimaryhealthcare.in/api/auth/password_login
+  - name: Prod-texttovid
+    url: https://texttovid.devkraft.in/api/health
+  - name: Prod-semantic
+    url: https://semantic.devkraft.in/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
