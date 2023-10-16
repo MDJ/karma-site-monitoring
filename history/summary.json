@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
     "status": "up",
-    "uptime": "63.70%",
+    "uptime": "63.71%",
     "uptimeDay": "62.98%",
     "uptimeWeek": "63.42%",
     "uptimeMonth": "64.11%",
-    "uptimeYear": "63.70%",
+    "uptimeYear": "63.71%",
     "time": 791,
     "timeDay": 762,
     "timeWeek": 754,
@@ -286,7 +286,7 @@
     "timeMonth": 782,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-10-16": 436,
+      "2023-10-16": 457,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -376,7 +376,7 @@
     "timeMonth": 746,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2023-10-16": 436,
+      "2023-10-16": 457,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -472,19 +472,19 @@
     "url": "https://semantic.devkraft.in/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/semantic.devkraft.in.ico",
     "slug": "prod-semantic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 764,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 716,
+    "timeDay": 718,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-16": 20
     }
   }
 ]
