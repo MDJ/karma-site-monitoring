@@ -4,19 +4,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/staging/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
-    "status": "up",
-    "uptime": "73.37%",
-    "uptimeDay": "63.86%",
-    "uptimeWeek": "64.28%",
+    "status": "down",
+    "uptime": "73.76%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "64.27%",
     "uptimeMonth": "64.58%",
-    "uptimeYear": "73.37%",
+    "uptimeYear": "73.76%",
     "time": 790,
     "timeDay": 765,
     "timeWeek": 776,
     "timeMonth": 787,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2023-12-21": 136,
+      "2023-12-21": 137,
       "2023-12-20": 518,
       "2023-12-19": 514,
       "2023-12-18": 512,
@@ -115,8 +115,7 @@
       "2023-09-16": 520,
       "2023-09-15": 528,
       "2023-09-14": 513,
-      "2023-09-13": 524,
-      "2023-09-12": 381
+      "2023-09-13": 381
     }
   },
   {
@@ -124,19 +123,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/testing/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "dev-portal-karma",
-    "status": "up",
-    "uptime": "73.41%",
-    "uptimeDay": "63.89%",
+    "status": "down",
+    "uptime": "73.80%",
+    "uptimeDay": "63.91%",
     "uptimeWeek": "64.31%",
     "uptimeMonth": "64.67%",
-    "uptimeYear": "73.41%",
+    "uptimeYear": "73.80%",
     "time": 315,
     "timeDay": 237,
     "timeWeek": 243,
     "timeMonth": 301,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-12-21": 136,
+      "2023-12-21": 137,
       "2023-12-20": 518,
       "2023-12-19": 513,
       "2023-12-18": 511,
@@ -235,8 +234,7 @@
       "2023-09-16": 520,
       "2023-09-15": 527,
       "2023-09-14": 512,
-      "2023-09-13": 524,
-      "2023-09-12": 381
+      "2023-09-13": 381
     }
   },
   {
@@ -244,16 +242,16 @@
     "url": "https://karmahealthcare.in/karma-app/Management/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/karmahealthcare.in.ico",
     "slug": "prod-portal-karma",
-    "status": "up",
-    "uptime": "74.83%",
-    "uptimeDay": "63.92%",
-    "uptimeWeek": "64.35%",
-    "uptimeMonth": "64.51%",
-    "uptimeYear": "74.83%",
+    "status": "down",
+    "uptime": "75.21%",
+    "uptimeDay": "63.94%",
+    "uptimeWeek": "64.34%",
+    "uptimeMonth": "64.56%",
+    "uptimeYear": "75.21%",
     "time": 826,
     "timeDay": 706,
     "timeWeek": 735,
-    "timeMonth": 788,
+    "timeMonth": 793,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2023-12-21": 136,
@@ -349,8 +347,7 @@
       "2023-09-22": 525,
       "2023-09-21": 522,
       "2023-09-20": 526,
-      "2023-09-19": 522,
-      "2023-09-18": 380
+      "2023-09-19": 382
     }
   },
   {
@@ -370,7 +367,7 @@
     "timeMonth": 689,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2023-12-21": 137,
+      "2023-12-21": 1057,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -526,7 +523,7 @@
     "timeMonth": 689,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-12-21": 137,
+      "2023-12-21": 1057,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -698,7 +695,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.75%",
     "time": 1096,
-    "timeDay": 681,
+    "timeDay": 651,
     "timeWeek": 662,
     "timeMonth": 698,
     "timeYear": 1096,
