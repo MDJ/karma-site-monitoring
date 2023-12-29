@@ -4,14 +4,14 @@
     "url": "https://staging.karmahealthcare.in/karma-app/staging/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
-    "status": "up",
-    "uptime": "74.84%",
-    "uptimeDay": "63.22%",
+    "status": "down",
+    "uptime": "75.20%",
+    "uptimeDay": "63.83%",
     "uptimeWeek": "63.45%",
     "uptimeMonth": "64.41%",
-    "uptimeYear": "74.84%",
+    "uptimeYear": "75.20%",
     "time": 787,
-    "timeDay": 743,
+    "timeDay": 748,
     "timeWeek": 732,
     "timeMonth": 779,
     "timeYear": 787,
@@ -115,8 +115,7 @@
       "2023-09-24": 528,
       "2023-09-23": 522,
       "2023-09-22": 526,
-      "2023-09-21": 523,
-      "2023-09-20": 384
+      "2023-09-21": 381
     }
   },
   {
@@ -124,12 +123,12 @@
     "url": "https://staging.karmahealthcare.in/karma-app/testing/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "dev-portal-karma",
-    "status": "up",
-    "uptime": "74.89%",
-    "uptimeDay": "63.88%",
+    "status": "down",
+    "uptime": "75.25%",
+    "uptimeDay": "63.86%",
     "uptimeWeek": "63.74%",
     "uptimeMonth": "64.57%",
-    "uptimeYear": "74.89%",
+    "uptimeYear": "75.25%",
     "time": 317,
     "timeDay": 358,
     "timeWeek": 357,
@@ -235,8 +234,7 @@
       "2023-09-24": 527,
       "2023-09-23": 521,
       "2023-09-22": 525,
-      "2023-09-21": 523,
-      "2023-09-20": 383
+      "2023-09-21": 381
     }
   },
   {
@@ -244,12 +242,12 @@
     "url": "https://karmahealthcare.in/karma-app/Management/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/karmahealthcare.in.ico",
     "slug": "prod-portal-karma",
-    "status": "up",
-    "uptime": "76.49%",
-    "uptimeDay": "63.91%",
-    "uptimeWeek": "63.58%",
+    "status": "down",
+    "uptime": "76.84%",
+    "uptimeDay": "63.90%",
+    "uptimeWeek": "63.57%",
     "uptimeMonth": "64.55%",
-    "uptimeYear": "76.49%",
+    "uptimeYear": "76.84%",
     "time": 832,
     "timeDay": 732,
     "timeWeek": 975,
@@ -348,8 +346,7 @@
       "2023-10-01": 508,
       "2023-09-30": 508,
       "2023-09-29": 513,
-      "2023-09-28": 508,
-      "2023-09-27": 381
+      "2023-09-28": 380
     }
   },
   {
@@ -369,7 +366,7 @@
     "timeMonth": 687,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-12-29": 140,
+      "2023-12-29": 1051,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -533,7 +530,7 @@
     "timeMonth": 686,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-12-29": 140,
+      "2023-12-29": 1051,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -686,11 +683,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/texttovid.devkraft.in.ico",
     "slug": "prod-texttovid",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 771,
     "timeDay": 658,
     "timeWeek": 694,
