@@ -4,19 +4,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/staging/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
-    "status": "up",
-    "uptime": "75.88%",
-    "uptimeDay": "63.78%",
-    "uptimeWeek": "63.98%",
-    "uptimeMonth": "63.32%",
-    "uptimeYear": "75.88%",
+    "status": "down",
+    "uptime": "76.22%",
+    "uptimeDay": "63.89%",
+    "uptimeWeek": "64.08%",
+    "uptimeMonth": "63.31%",
+    "uptimeYear": "76.22%",
     "time": 787,
     "timeDay": 844,
-    "timeWeek": 772,
+    "timeWeek": 776,
     "timeMonth": 775,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-01-04": 137,
+      "2024-01-04": 138,
       "2024-01-03": 510,
       "2024-01-02": 509,
       "2024-01-01": 514,
@@ -115,8 +115,7 @@
       "2023-09-30": 509,
       "2023-09-29": 513,
       "2023-09-28": 509,
-      "2023-09-27": 526,
-      "2023-09-26": 383
+      "2023-09-27": 382
     }
   },
   {
@@ -124,19 +123,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/testing/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "dev-portal-karma",
-    "status": "up",
-    "uptime": "75.92%",
-    "uptimeDay": "63.81%",
-    "uptimeWeek": "64.12%",
+    "status": "down",
+    "uptime": "76.27%",
+    "uptimeDay": "63.92%",
+    "uptimeWeek": "64.11%",
     "uptimeMonth": "63.47%",
-    "uptimeYear": "75.92%",
+    "uptimeYear": "76.27%",
     "time": 318,
     "timeDay": 477,
     "timeWeek": 347,
     "timeMonth": 314,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-01-04": 137,
+      "2024-01-04": 138,
       "2024-01-03": 509,
       "2024-01-02": 509,
       "2024-01-01": 514,
@@ -235,8 +234,7 @@
       "2023-09-30": 508,
       "2023-09-29": 512,
       "2023-09-28": 509,
-      "2023-09-27": 527,
-      "2023-09-26": 382
+      "2023-09-27": 382
     }
   },
   {
@@ -244,12 +242,12 @@
     "url": "https://karmahealthcare.in/karma-app/Management/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/karmahealthcare.in.ico",
     "slug": "prod-portal-karma",
-    "status": "up",
-    "uptime": "77.43%",
-    "uptimeDay": "63.85%",
+    "status": "down",
+    "uptime": "77.53%",
+    "uptimeDay": "63.96%",
     "uptimeWeek": "64.15%",
     "uptimeMonth": "63.46%",
-    "uptimeYear": "77.43%",
+    "uptimeYear": "77.53%",
     "time": 826,
     "timeDay": 649,
     "timeWeek": 665,
@@ -349,7 +347,7 @@
       "2023-10-06": 529,
       "2023-10-05": 527,
       "2023-10-04": 527,
-      "2023-10-03": 405
+      "2023-10-03": 385
     }
   },
   {
@@ -369,7 +367,7 @@
     "timeMonth": 689,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-01-04": 137,
+      "2024-01-04": 1058,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -539,7 +537,7 @@
     "timeMonth": 686,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-01-04": 137,
+      "2024-01-04": 1058,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
