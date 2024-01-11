@@ -4,19 +4,19 @@
     "url": "https://staging.karmahealthcare.in/karma-app/staging/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "qa-portal-karma",
-    "status": "up",
-    "uptime": "76.97%",
-    "uptimeDay": "62.79%",
-    "uptimeWeek": "63.85%",
+    "status": "down",
+    "uptime": "77.23%",
+    "uptimeDay": "62.68%",
+    "uptimeWeek": "63.83%",
     "uptimeMonth": "63.27%",
-    "uptimeYear": "76.97%",
+    "uptimeYear": "77.23%",
     "time": 787,
     "timeDay": 737,
     "timeWeek": 785,
     "timeMonth": 771,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-01-11": 150,
+      "2024-01-11": 152,
       "2024-01-10": 534,
       "2024-01-09": 522,
       "2024-01-08": 510,
@@ -115,8 +115,7 @@
       "2023-10-07": 521,
       "2023-10-06": 530,
       "2023-10-05": 528,
-      "2023-10-04": 528,
-      "2023-10-03": 386
+      "2023-10-04": 382
     }
   },
   {
@@ -124,12 +123,12 @@
     "url": "https://staging.karmahealthcare.in/karma-app/testing/Login.html",
     "icon": "https://icons.duckduckgo.com/ip3/staging.karmahealthcare.in.ico",
     "slug": "dev-portal-karma",
-    "status": "up",
-    "uptime": "77.02%",
-    "uptimeDay": "62.82%",
+    "status": "down",
+    "uptime": "77.28%",
+    "uptimeDay": "62.81%",
     "uptimeWeek": "63.88%",
     "uptimeMonth": "63.36%",
-    "uptimeYear": "77.02%",
+    "uptimeYear": "77.28%",
     "time": 319,
     "timeDay": 356,
     "timeWeek": 334,
@@ -235,8 +234,7 @@
       "2023-10-07": 520,
       "2023-10-06": 529,
       "2023-10-05": 528,
-      "2023-10-04": 528,
-      "2023-10-03": 385
+      "2023-10-04": 382
     }
   },
   {
@@ -245,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/karmahealthcare.in.ico",
     "slug": "prod-portal-karma",
     "status": "up",
-    "uptime": "79.02%",
-    "uptimeDay": "60.84%",
-    "uptimeWeek": "63.40%",
-    "uptimeMonth": "63.23%",
-    "uptimeYear": "79.02%",
+    "uptime": "78.81%",
+    "uptimeDay": "61.57%",
+    "uptimeWeek": "63.50%",
+    "uptimeMonth": "63.25%",
+    "uptimeYear": "78.81%",
     "time": 818,
     "timeDay": 689,
     "timeWeek": 699,
     "timeMonth": 754,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-01-11": 180,
+      "2024-01-11": 169,
       "2024-01-10": 533,
       "2024-01-09": 544,
       "2024-01-08": 509,
@@ -347,7 +345,8 @@
       "2023-10-15": 528,
       "2023-10-14": 519,
       "2023-10-13": 531,
-      "2023-10-12": 383
+      "2023-10-12": 525,
+      "2023-10-11": 379
     }
   },
   {
@@ -367,7 +366,7 @@
     "timeMonth": 689,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2024-01-11": 458,
+      "2024-01-11": 697,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
@@ -544,7 +543,7 @@
     "timeMonth": 677,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-01-11": 458,
+      "2024-01-11": 697,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
